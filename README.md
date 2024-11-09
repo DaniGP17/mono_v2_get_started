@@ -1,4 +1,6 @@
 ⚠️ This environment is still in beta, crashes and future changes are to be expected ⚠️
+
+⚠️ This is not a official repo, and has been made due to the discontinuation of the main repo  ⚠️
 # Get started with FiveM's mono v2
 Straight to the action? [set up your C# solution and resource](Setup.md) or [see examples](Examples/Overview.md)
 

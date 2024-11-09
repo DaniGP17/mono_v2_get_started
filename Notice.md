@@ -9,6 +9,5 @@ Want to start developing and testing this new environment, then [start right her
 
 ## Technical issues & reports
 If you encounter any technical issues then create your [Minimal Reproducible Example (MRE or repro)](https://stackoverflow.com/help/minimal-reproducible-example) and create an issue by one of the following means:
-  1. [On this repository](https://github.com/thorium-cfx/mono_v2_get_started/issues)
+  1. [On this repository](https://github.com/DaniGP17/mono_v2_get_started/issues)
   2. [On the FiveM repository](https://github.com/citizenfx/fivem/issues)
-  3. Contact thorium directly
